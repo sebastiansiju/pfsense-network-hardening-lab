@@ -11,6 +11,7 @@ A hands-on engineering lab focused on building an isolated enterprise network to
 ---
 
 ## 🗺️ Network Topology
+
 The environment is engineered to enforce strict network segmentation. The secure client workspace has zero direct connection to the public internet WAN and relies entirely on the firewall gateway for routing and policy enforcement.
 
 ```text
